@@ -1,0 +1,9 @@
+Date: 30 November 2011
+
+#This is a test page
+
+###by Stevancw
+
+This is a test article written in markdown.
+
+Hope this looks alright.
