@@ -2,7 +2,7 @@
 # titles.
 #
 title: "Stevancw.com"
-subtitle: "A blog by Stevan C Wing"
+subtitle: "A blog by Stevan C Wing. beta 0.4"
 
 # You should really specify your content's author when generating an
 # Atom feed. Specify at least one of name, uri or email, and Nesta will
@@ -26,7 +26,7 @@ subtitle: "A blog by Stevan C Wing"
 # site's short name here. A comment form will automatically be added to
 # the bottom of your pages.
 #
-# disqus_short_name: stevancw
+disqus_short_name: stevancw
 
 # cache
 #     Set it to true if you'd like Nesta to cache your pages in ./public.
@@ -52,7 +52,7 @@ content: content
 #     scroll down a bit to set it in production even if you're not deploying
 #     to your own server.
 #
-google_analytics_code: "UA-27412330-1"
+# google_analytics_code: "UA-27412330-1"
 
 # Overriding "cache" and "content" in production is recommended if you're
 # deploying Nesta to your own server (but see the deployment documentation
@@ -61,7 +61,7 @@ google_analytics_code: "UA-27412330-1"
 #
 # Don't forget to uncomment the "production:" line too...
 
-# production:
-#   cache: true    
-#   content: /var/apps/nesta/shared/content
-#   google_analytics_code: "UA-27412330-1"
+production:
+  cache: true    
+  content: /var/apps/nesta/shared/content
+  google_analytics_code: "UA-27412330-1"

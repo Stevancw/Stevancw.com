@@ -1,0 +1,81 @@
+!!!
+/[if lt IE 7 ] <html class="ie ie6" lang="en">
+/[if IE 7 ] <html class="ie ie7" lang="en">
+/[if IE 8 ] <html class="ie ie8" lang="en">
+/ [if (gte IE 9)|!(IE)]><!
+%html{:lang => "en"}
+  / <![endif]
+  %head
+    /
+      Basic Page Needs
+      \==================================================
+    %meta{:charset => "utf-8"}
+      %title Your Page Title Here :)
+      %meta{:content => "", :name => "description"}
+        %meta{:content => "", :name => "author"}
+          /[if lt IE 9]
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+          /
+            Mobile Specific Metas
+            \==================================================
+          %meta{:content => "width=device-width, initial-scale=1, maximum-scale=1", :name => "viewport"}
+            /
+              CSS
+              \==================================================
+            %link{:href => "stylesheets/base.css", :rel => "stylesheet"}
+              %link{:href => "stylesheets/skeleton.css", :rel => "stylesheet"}
+                %link{:href => "stylesheets/layout.css", :rel => "stylesheet"}
+                  /
+                    Favicons
+                    \==================================================
+                  %link{:href => "images/favicon.ico", :rel => "shortcut icon"}
+                    %link{:href => "images/apple-touch-icon.png", :rel => "apple-touch-icon"}
+                      %link{:href => "images/apple-touch-icon-72x72.png", :rel => "apple-touch-icon", :sizes => "72x72"}
+                        %link{:href => "images/apple-touch-icon-114x114.png", :rel => "apple-touch-icon", :sizes => "114x114"}
+  %body
+    /
+      Primary Page Layout
+      \==================================================
+    / Delete everything in this .container and get started on your own site!
+    .container
+      .sixteen.columns
+        %h1.remove-bottom{:style => "margin-top: 40px"} Skeleton
+        %h5 Version 1.1
+        %hr/
+      .one-third.column
+        %h3 About Skeleton?
+        %p Skeleton is a small collection of well-organized CSS & JS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. It's based on a responsive grid, but also provides very basic CSS for typography, buttons, tabs, forms and media queries. Go ahead, resize this super basic page to see the grid in action.
+      .one-third.column
+        %h3 Three Core Principles
+        %p Skeleton is built on three core principles:
+        %ul.square
+          %li
+            %strong> A Responsive Grid Down To Mobile
+            \: Elegant scaling from a browser to tablets to mobile.
+          %li
+            %strong> Fast to Start
+            \: It's a tool for rapid development with best practices
+          %li
+            %strong> Style Agnostic
+            \: It provides the most basic, beautiful styles, but is meant to be overwritten.
+      .one-third.column
+        %h3 Docs & Support
+        %p
+          The easiest way to really get started with Skeleton is to check out the full docs and info at
+          = succeed "." do
+            %a{:href => "http://www.getskeleton.com"} www.getskeleton.com.
+          Skeleton is also open-source and has a
+          = succeed "," do
+            %a{:href => "https://github.com/dhgamache/skeleton"} project on git
+          so check that out if you want to report bugs or create a pull request. If you have any questions, thoughts, concerns or feedback, please don't hesitate to email me at
+          = succeed "." do
+            %a{:href => "mailto:hi@getskeleton.com"} hi@getskeleton.com
+    / container
+    /
+      JS
+      \==================================================
+    %script{:src => "http://code.jquery.com/jquery-1.6.4.min.js"}
+    %script{:src => "javascripts/tabs.js"}
+    /
+      End Document
+      \==================================================
