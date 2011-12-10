@@ -10,4 +10,4 @@ I put off starting a blog for so long primarily because I couldn't decide which 
 
 I am looking forward to the adventure and to sharing it with you all.
 
-![Image of a candle shaped like the number1](http://s3.amazonaws.com/files.posterous.com/andyblumenthal/qsghYfjQBh2YP8z6yl0gOvtfyeKEuhApTGKxO2SucAllK7FeVPmoibgDZ8CE/first.jpg?AWSAccessKeyId=AKIAJFZAE65UYRT34AOQ&Expires=1323461423&Signature=OJVcJyIPdmwoAA6oysQX0WPOne4%3D "The first")
+<!-- ![Image of a candle shaped like the number1](*URL* "The first") -->
