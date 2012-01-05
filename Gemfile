@@ -9,6 +9,7 @@ gem 'sass', '3.1.11'
 gem 'shotgun', '0.9'
 gem 'sinatra', '1.2.6'
 gem 'tilt', '1.3.3'
+gem 'heroku'
 
 
 
