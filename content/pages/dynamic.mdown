@@ -1,0 +1,63 @@
+Date: 5 January 2012
+
+#How every doctors can contribute to the education of their successors
+### No effort required
+
+I want to present an interesting concept but before I get there I want to spend a moment to consider the current system of undergraduate medical education, my view of it anyway. 
+
+Teaching verses learning
+------------------------------------
+
+From my own medical school experience it is difficult to ascertain if medical schools appreciate the difference between teaching and learning in a way that is useful for students.
+
+Medical schools have autonomy over what they teach and are encouraged to innovate providing certain standards are met. [The General Medical Council](http://www.gmc-uk.org/ "The General Medical Council") (GMC) sets the standards for undergraduate medical education in the UK and their document [Tomorrow's Doctors](http://www.gmc-uk.org/TomorrowsDoctors_2009.pdf_39260971.pdf "Tomorrow's Doctors (.pdf)") is a very nice vision for medical education. Despite this vision it sometimes feels like medical schools think of producing and delivering a curriculum as a tick box exercise rather than taking a considered approach to students learning and delivering what is needed for students to become excellent junior doctors.
+
+I am sure that medical schools strategically have the learning needs of students as the central pillar of their ethos but perhaps through multiple layers of organisation and bureaucracy, and not least because it is difficult, the nectar of these aspirations never seem to drip down to students. Of-course this is aside from the brilliance of a few enthusiastic individuals who focus on what the students need to know to do their future jobs well. The recent trend within UK medical schools to dedicate a portion of final year of study to 'preparation for practice' is a sure-footed step in the right direction but *still* there is a huge learning curve for new doctors seen every year in the first week of August.
+
+####I believe that to accurately reflect the needs of students and support the efforts of the enthused few the medical curriculum needs to be more responsive.
+
+How quickly can the curriculum respond to the ever changing requirement of modern medical practice? The answer is **slowly** and that is not to say that the curriculum doesn't change each year. A similar paradigm is that electronic and online resources are usually much more up to date and can thus reflect current thinking better than even the newest of textbooks who's content and thinking are outdated the moment they hit publication. We need a more responsive curriculum rather than just **assuming** that a medical students clinical attachment will take care of it all.
+
+The continuum of medical education
+--------------------------------------------------
+
+This paragraph from [Tomorrow's Doctors](http://www.gmc-uk.org/TomorrowsDoctors_2009.pdf_39260971.pdf "Tomorrow's Doctors (.pdf)") interests me:
+
+> 121 "Undergraduate medical education is part of a continuum of education and training which continues through postgraduate training" ... "medical schools should also make arrangements so that graduates’ areas of relative weakness are fed into their Foundation Programme portfolios"
+
+This is obviously so that the trainees shortcomings can be addressed and used as part of the their learning goals (nice touch). **How about turning it on it's head?** [WTF?](http://en.wiktionary.org/wiki/WTF "WTF") you may ask. Well how about using current doctors learning needs, anxieties and gaps in knowledge to inform what should be taught in the final stages of medical school? We could compile a list of topics from what new doctors felt they had to learn to get up to speed and perhaps what they feel they missed out on at school. This list could be used to shape the future undergraduate curriculum so that greater emphasis is placed on those key topics.
+
+###### Using exam results in a similar manner would be incredibly biased since there would be a disconnect between what the medical school feel is important and what is actually important in the workplace.
+
+Hypocrisy?
+----------------
+
+ Until teaching cardiology for the 3rd year students at [Barts and The London](http://www.smd.qmul.ac.uk/ "Barts and The London") I had not fed back to the medical school in any way about what I thought it would be useful for students to know before practicing as a junior doctor, and yet I constantly proclaim that I am interested in medical education. Hypocrisy? No (at least I do not think so) it is just that there is not a good framework for doing so. Even if I telephoned the final year coordinator and told them I had no clue about arrhythmia management when I graduated what would they do with that information? What if 100 people telephoned the medical school? Now that's different!
+ 
+The next question is how can we get this data? How can you get 100 people to inform the medical school? Surveys? Postgraduate exam board data? How can the medical school spot what was taught well and what needs more prominence in the curriculum.
+
+Here is the idea (thanks for reading on)
+------------------------------------------------------
+
+It is clear that proportionally, self directed electronic learning (eLearning) is becoming much more important in modern medical education. Online knowledge bases, point of care tools and the web itself (via [Google](http://www.Google.com "Google")) are all part of the medical education arsenal. 
+
+The enthralling concept for me is that when any 'thing' is done electronically is that there is the ability to log and monitor that event. If lots of people are doing that 'thing' electronically then we have a big dataset that contains information of potential value that is often not extracted and rarely used in any meaningful way.
+
+###What if we used the searching habits from newly qualified doctors to inform the medical curriculum?
+
+Top read articles,  [Google](http://www.Google.com "Google") searches, topics viewed on point of care references could all be used to ascertain which subjects are important to junior doctors and perhaps not well taught at medical school. This approach ensures that curriculum development reflects the context and nature of clinical practice and furthermore that the knowledge that newly qualified doctors need to perform their jobs is being taught at the institution that is training their successors. 
+
+If this was implemented then every junior doctor would contribute (with no extra effort) to the quality of medical education by helping to produce statistics that will inform a dynamic and responsive medical curriculum.
+
+The idea can be expanded even further and the scope is vast. Here are a few examples:
+
+- Regional variations in knowledge needs could be fed back to the would-be doctors who will be practicing in that area.
+- Rotation variations could be accounted for i.e. In which speciality did doctors search for more information? Is this a reflection on anxieties and/or knowledge? We could address that so next year things are better.
+
+- As a student you could use your own exam performance to compare yourself with former students with similar strengths and weaknesses. What did those new doctors search for?
+
+In no way am I suggesting that theses search patterns should directly dictate medical curricula. There are all sorts of complex situational, inter-individual and social reasons why searching patterns may differ. However given enough data we could spot meaningful associations that should prompt further study that may one day translate into a more responsive, dynamic undergraduate medical curriculum.
+
+
+----------------------------------------------
+
