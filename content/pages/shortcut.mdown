@@ -1,0 +1,15 @@
+Date: 15 July 2012
+
+#Shortcut to google search bar in Safari for Mac
+
+This is my new favourite shortcut to avoid using the mouse when browsing the web.
+Just simply type the following on a Mac in Safari (lets say version >5.0) 
+
+      ⌘ + ⌥ + f
+      (Command key + option key + 'f')
+
+Your cursor will then jump to the search box so you can search for anything you wish on Google (does anyone really use anything else? ... perhaps [DuckDuckGo](http://duckduckgo.com/)?)
+
+It even works in Chrome (I do not care for many other browsers other than these two- they take care of well over 90% of my browsing)!
+
+Cool huh?
