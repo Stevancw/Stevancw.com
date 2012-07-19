@@ -1,8 +1,8 @@
 Date: 19 July 2012
 
-#What's your diagnosis? There is a lesson in this case.
+#What's your diagnosis? (There is a lesson in this case).
 
-I recently met this man who was in his mid mid 40’s and presented to the emergency department after a week of feeling ‘not very well’.
+I recently met this man who was in his mid 40’s and presented to the emergency department after a week of feeling ‘not very well’.
 
 to summerise he had the following: 
 
@@ -10,14 +10,15 @@ to summerise he had the following:
 - Ex-IVDU- just completed 6/52 of inpatient rehabilitation
 - Previous cocaine addict
 
+
 His initial blood tests showed the following:
 
 - ALT: 9000
 - Creatinine: 950
 - CK: 90,000
 
-Any ideas? 
 
+Any ideas? 
 What’s your diagnosis?
 
 What investigations would you order?
