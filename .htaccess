@@ -1,0 +1,4 @@
+RewriteEngine on
+Options +FollowSymlinks
+RewriteCond %{HTTP_HOST} ^www\.DOMAIN.com [NC]
+RewriteRule ^(.*) http://DOMAIN.com/$1 [L,R=301]
