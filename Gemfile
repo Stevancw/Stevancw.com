@@ -10,7 +10,4 @@ gem 'shotgun', '0.9'
 gem 'sinatra', '1.2.6'
 gem 'tilt', '1.3.3'
 gem 'rack-rewrite', '0.2.1'
-
-
-
-# gem 'RUBY_VERSION =~ /^1.9/' ? 'ruby-debug19': 'ruby-debug'
+gem 'nesta-plugin-foldable'

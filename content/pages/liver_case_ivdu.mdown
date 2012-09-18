@@ -6,6 +6,8 @@ I recently met this man who was in his mid 40’s and presented to the emergency
 
 to summerise he had the following: 
 
+<!-- ~~fold~~ -->
+
 - Genotype 1a Hepatitis C
 - Ex-IVDU- just completed 6/52 of inpatient rehabilitation
 - Previous cocaine addict
