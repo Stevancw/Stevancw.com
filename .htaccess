@@ -1,4 +1,3 @@
-RewriteEngine on
-Options +FollowSymlinks
-RewriteCond %{HTTP_HOST} ^www\.DOMAIN.com [NC]
-RewriteRule ^(.*) http://DOMAIN.com/$1 [L,R=301]
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
