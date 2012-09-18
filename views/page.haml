@@ -15,7 +15,5 @@
         = article_summaries(@page.articles)
 
     = haml :page_meta, :layout => true, :locals => { :page => @page }
-
-  = haml :comments, :layout => false
-
-= haml :sidebar, :layout => false
+    = haml :comments, :layout => true
+= haml :sidebar, :layout => true

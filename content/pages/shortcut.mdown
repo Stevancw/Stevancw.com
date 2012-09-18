@@ -13,3 +13,4 @@ Your cursor will then jump to the search box so you can search for anything you 
 It even works in Chrome (I do not care for many other browsers other than these two- they take care of well over 90% of my browsing)!
 
 Cool huh?
+
