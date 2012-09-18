@@ -6,8 +6,8 @@ Bundler.require(:default)
 require 'rack-rewrite'
 if ENV['RACK_ENV'] == 'production'
   use Rack::Rewrite do
-    r301 %r{.*}, 'http://yoursite.com$&', :if => Proc.new  do |rack_env|
-      rack_env['SERVER_NAME'] != 'yoursite.com'
+    r301 %r{.*}, 'http://stevancw.com$&', :if => Proc.new  do |rack_env|
+      rack_env['SERVER_NAME'] != 'stevancw.com'
     end
   end
 end
