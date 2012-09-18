@@ -10,6 +10,7 @@ gem 'shotgun', '0.9'
 gem 'sinatra', '1.2.6'
 gem 'tilt', '1.3.3'
 gem 'heroku'
+gem 'rack-rewrite', '0.2.1'
 
 
 

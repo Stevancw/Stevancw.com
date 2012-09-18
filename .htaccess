@@ -1,5 +1,0 @@
-RewriteCond %{HTTPS} !=on
-RewriteCond %{HTTP_HOST} !^www.stevancw.com$
-RewriteRule ^/(.*)$ http://stevancw.com/$1 [R=301,L]
-
-AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
