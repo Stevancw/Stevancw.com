@@ -1,3 +1,7 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^www.stevancw.com(.+)$ [NC]
-RewriteRule ^(.*)$ http://stevancw.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^www.stevancw.com [NC]
+RewriteRule ^(.*)$ http://stevancw.com/$1 [L,R=301]
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.thedigitaldoc.co.uk [NC]
+RewriteRule ^(.*)$ http://thedigitaldoc.co.uk/$1 [L,R=301]
