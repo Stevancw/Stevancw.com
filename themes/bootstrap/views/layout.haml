@@ -1,0 +1,72 @@
+!!!
+%html{:lang => 'en'}
+  /
+  / Stevan C Wing
+  / Stevan C Wing
+  / Stevan C Wing
+  / Stevan C Wing
+  / Stevan C Wing
+  / Stevan C Wing
+  / Stevan C Wing
+  / Stevan C Wing
+  /
+  %head
+    %meta{:charset => 'utf-8'}
+    - if @description
+      %meta{:name => 'description', :content => @description}
+    - if @keywords
+      %meta{:name => 'keywords', :content => @keywords}
+    %meta{:content => 'width=device-width, initial-scale=1.0', :name => 'viewport'}
+    %meta{:content => '', :name => 'author'}/
+
+    /Stylesheets
+    %link{:href => 'http://fonts.googleapis.com/css?family=Droid+Serif', :rel => 'stylesheet'}
+    %link{:href => "http://fonts.googleapis.com/css?family=Audiowide", :rel => "stylesheet"}
+    %link{:href => '/bootstrap/bootstrap-responsive.css', :media => 'screen', :rel => 'stylesheet'}
+    %link{:href => '/css/master.css', :media => 'screen', :rel => 'stylesheet'}
+    %link{:href => '/css/application.css', :media => 'screen', :rel => 'stylesheet'}
+    
+    / %link{:href => '/bootstrap/bootstrap-responsive.css', :media => 'screen', :rel => 'stylesheet'}
+    /[if lte IE 6]
+      %link{:rel => 'stylesheet', :href => 'http://universal-ie6-css.googlecode.com/files/ie6.1.1.css', :media =>'screen, projection'}
+    /[if lt IE 9]
+      %script{:src => '//html5shim.googlecode.com/svn/trunk/html5.js'}
+
+    /XML
+    %link{:href => '/articles.xml', :rel => 'alternate', :type => 'application/atom+xml'}
+    
+    /Favicons
+    %link{:href => "/bootstrap/favicon.ico", :rel => "shortcut icon"}
+    %link{:href => "/bootstrap/images/apple-touch-icon.png", :rel => "apple-touch-icon"}
+    %link{:href => "/bootstrap/images/apple-touch-icon-72x72.png", :rel => "apple-touch-icon", :sizes => "72x72"}
+    %link{:href => "/bootstrap/images/apple-touch-icon-114x114.png", :rel => "apple-touch-icon", :sizes => "114x114"}/
+
+    %title= @title
+  %body
+    .container-fluid
+      .span12
+        .row-fluid
+          .span12
+            .header
+              %h1.title Stevancw
+              %p.tagline A  blog by Stevan C Wing: beta 0.80
+              %hr
+        .row-fluid
+          .span12
+            .span8.offset1
+              = yield
+            .span2.pull-right
+              %ul
+                %li
+                  %a{:href => "."}> twitter
+                %li
+                  %a{:href => "."}> facebook
+                %li
+                  %a{:href => "."}> flickr
+                %li
+                  %a{:href => "."}> instagram
+        .row-fluid.span10.offset1
+          %footer
+            = haml :footer, :layout => true
+          .analytics
+            = haml :analytics, :layout => true
