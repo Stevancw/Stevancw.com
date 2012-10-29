@@ -12,6 +12,17 @@ h1.title{
   color: #525252;
 }
 
+a.title{
+  font-family: 'Audiowide', helvetica, sans-serif;
+  color: #525252;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+ul.nav li {
+  list-style: none;
+}
+
 p.tagline{
   margin-top: -2.2em;
   font-size: 1.2em;

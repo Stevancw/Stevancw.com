@@ -48,7 +48,8 @@
         .row-fluid
           .span12
             .header
-              %h1.title Stevancw
+              %h1.title
+                %a.title{ :href => '/' } Stevancw
               %p.tagline A  blog by Stevan C Wing: beta 0.82
               %hr
         .row-fluid
@@ -56,7 +57,11 @@
             .span8.offset1
               = yield
             .span2.pull-right
-              %ul
+              %ul.nav
+                %li
+                  %a{:href => "/about_stevan_wing"}> About
+                %li
+                  %a{:href => "/blog"}> Blog
                 %li
                   %a{:href => "https://twitter.com/Stevancw"}> twitter
                 %li
