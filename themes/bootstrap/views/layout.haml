@@ -16,7 +16,8 @@
       %meta{:name => 'description', :content => @description}
     - if @keywords
       %meta{:name => 'keywords', :content => @keywords}
-    %meta{:content => 'width=device-width, initial-scale=1.0', :name => 'viewport'}
+    /%meta{:content => 'width=device-width, initial-scale=1.0', :name => 'viewport'}
+    %meta{:content => "width=device-width, initial-scale=1", :name => "viewport"}/
     %meta{:content => '', :name => 'author'}/
 
     /Stylesheets
@@ -62,6 +63,14 @@
                   %a{:href => "/about_stevan_wing"}> About
                 %li
                   %a{:href => "/blog"}> Blog
+                /%li
+                /  %a{:href => "/blog"}> Publications
+                /%li
+                /  %a{:href => "/speaking"}> Speaking
+                %li
+                  %a{:href => "http://www.neuroscience.cam.ac.uk/directory/profile.php?Stevancw"}> Cambridge Neuroscience
+                %li
+                  %a{:href => "http://thedigitaldoc.co.uk"}> The Digital Doctor
                 %li
                   %a{:href => "https://twitter.com/Stevancw"}> twitter
                 %li
