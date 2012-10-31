@@ -43,38 +43,37 @@
     %title= @title
   %body
     .container-fluid
-      .span12
-        .row-fluid
-          .span12
-            .header
-              %h1.title
-                %a.title{ :href => '/' } Stevancw
-              %p.tagline A  blog by Stevan C Wing: beta 0.82
-              %hr
-        .row-fluid
-          .span12
-            .span7.offset1
-              = yield
-            .span3.pull-right
-              %ul.nav
-                %li
-                  %a{:href => "/about_stevan_wing"}> About
-                %li
-                  %a{:href => "/blog"}> Blog
-                /%li
-                /  %a{:href => "/blog"}> Publications
-                /%li
-                /  %a{:href => "/speaking"}> Speaking
-                %li
-                  %a{:href => "http://www.neuroscience.cam.ac.uk/directory/profile.php?Stevancw"}> Cambridge Neuroscience
-                %li
-                  %a{:href => "http://thedigitaldoc.co.uk"}> The Digital Doctor
-                %li
-                  %a{:href => "https://twitter.com/Stevancw"}> twitter
-                %li
-                  %a{:href => "http://www.flickr.com/photos/stevancw/"}> flickr
-        .row-fluid.span10.offset1
-          %footer
-            = haml :footer, :layout => true
-          .analytics
-            = haml :analytics, :layout => true
+      .row-fluid
+        .span12
+          .header
+            %h1.title
+              %a.title{ :href => '/' } Stevancw
+            %p.tagline A  blog by Stevan C Wing: beta 0.82
+            %hr
+      .row-fluid
+        .span12
+          .span7.offset1
+            = yield
+          .span3.pull-right
+            %ul.nav
+              %li
+                %a{:href => "/about_stevan_wing"}> About
+              %li
+                %a{:href => "/blog"}> Blog
+              /%li
+              /  %a{:href => "/blog"}> Publications
+              /%li
+              /  %a{:href => "/speaking"}> Speaking
+              %li
+                %a{:href => "http://www.neuroscience.cam.ac.uk/directory/profile.php?Stevancw"}> Cambridge Neuroscience
+              %li
+                %a{:href => "http://thedigitaldoc.co.uk"}> The Digital Doctor
+              %li
+                %a{:href => "https://twitter.com/Stevancw"}> twitter
+              %li
+                %a{:href => "http://www.flickr.com/photos/stevancw/"}> flickr
+      .row-fluid.span10.offset1
+        %footer
+          = haml :footer, :layout => true
+        .analytics
+          = haml :analytics, :layout => true
