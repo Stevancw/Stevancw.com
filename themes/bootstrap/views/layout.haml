@@ -16,12 +16,8 @@
       %meta{:name => 'description', :content => @description}
     - if @keywords
       %meta{:name => 'keywords', :content => @keywords}
-    %meta{:content => 'width=device-width, initial-scale=1.0', :name => 'viewport'}
+    %meta{:content => 'width=device-width, initial-scale=1.0, maximum-scale=', :name => 'viewport'}
     %meta{:content => '', :name => 'author'}/
-
-    /iPhone zoom fix js
-    %script{:type => "text/javascript"}
-      (function(a){function g(){f.content="width=device-width,minimum-scale="+e[0]+",maximum-scale="+e[1];a.removeEventListener(c,g,true)}var b="addEventListener",c="gesturestart",d="querySelectorAll",e=[1,1],f=d in a?a[d]("meta[name=viewport]"):[];if((f=f[f.length-1])&&b in a){g();e=[.25,1.6];a[b](c,g,true)}})(document)
 
     /Stylesheets
     %link{:href => 'http://fonts.googleapis.com/css?family=Droid+Serif', :rel => 'stylesheet'}
