@@ -16,7 +16,7 @@
       %meta{:name => 'description', :content => @description}
     - if @keywords
       %meta{:name => 'keywords', :content => @keywords}
-    %meta{:content => 'width=device-width, initial-scale=1.0, maximum-scale=', :name => 'viewport'}
+    %meta{:content => 'width=device-width, initial-scale=0.9', :name => 'viewport'}
     %meta{:content => '', :name => 'author'}/
 
     /Stylesheets
@@ -26,7 +26,6 @@
     %link{:href => '/css/master.css', :media => 'screen', :rel => 'stylesheet'}
     %link{:href => '/css/application.css', :media => 'screen', :rel => 'stylesheet'}
     
-    / %link{:href => '/bootstrap/bootstrap-responsive.css', :media => 'screen', :rel => 'stylesheet'}
     /[if lte IE 6]
       %link{:rel => 'stylesheet', :href => 'http://universal-ie6-css.googlecode.com/files/ie6.1.1.css', :media =>'screen, projection'}
     /[if lt IE 9]
