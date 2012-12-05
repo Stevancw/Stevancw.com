@@ -41,14 +41,18 @@ ul.nav a {
   border-bottom: none;
 }
 
+#sidebar {
+  padding-top: 2em;
+}
+
+.side {
+  position: fixed;
+}
+
 p.tagline{
   margin-top: -2.2em;
   font-size: 1.2em;
   font-family: Courier New, monospace;
-}
-
-#sidebar {
-  padding-top: 2em;
 }
 
 footer.branding{

@@ -1,13 +1,20 @@
-Doctors Learning to code?
-==========================
+<!--
+Date: 6 December 2012 09:00 
+Description: Should doctors learn programming and code up web applications for the NHS?
+Categories: doctor-learning-to-code
+Template: page_comments
+Flag: wow
 
-#####My thoughts
+#Doctors Learning to code?
+#####(My thoughts
 
 >Last weekend I helped organise [The Digital Doctor Conference](http://thedigitaldoc.co.uk) in London. This was an opportunity for doctors to come and learn more about technology and learn some of the basics of coding and web applications. The conference went really well, and lots of the attendees said how much they enjoyed learning about software development...
 
-this is how Jeremy Walker's excellent blog post starts 
+this is how Jeremy Walker's excellent blog post starts but by the end Jeremy hints at a seethy undertone of snobbery and condesention.
 
-however in the following paragraphs Jeremy talks about a debate that a seethy undertone of snobbery and condesention that I think is totally misguided.
+<!-- ~~fold~~ -->
+
+
 
 and I too joined him
 

@@ -1,5 +1,6 @@
 Date: 19 July 2012
-Catagories: medicine
+Categories: medicine
+Template: page_comments
 
 #What's your diagnosis?
 

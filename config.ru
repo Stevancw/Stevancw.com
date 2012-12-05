@@ -4,7 +4,7 @@ require 'bundler/setup'
 Bundler.require(:default)
 
 
-gem 'rack-rewrite', '~> 0.2.1'
+gem 'rack-rewrite', '~> 1.3.1'
 require 'rack-rewrite'
     if ENV['RACK_ENV'] == 'production'
         use Rack::Rewrite do

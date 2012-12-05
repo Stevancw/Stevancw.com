@@ -1,4 +1,6 @@
 Date: 15 July 2012
+Catagories: programming
+Template: page_comments
 
 #Shortcut to google search bar in Safari for Mac
 

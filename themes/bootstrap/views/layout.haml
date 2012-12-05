@@ -54,7 +54,7 @@
         .span12
           .span7.offset1
             = yield
-          .span3.pull-right#sidebar
+          .span4.pull-right#sidebar
             %ul.nav
               %li
                 %a{:href => "/about-stevan-wing"}> About
@@ -68,7 +68,6 @@
                 %a{:href => "/doctors-learning-to-code"}> Coding
               %li
                 %a{:href => "/stevan-wing-science"}> Science
-          .span3.pull-right#sidebar
             %h3
               Links
             %ul.nav
@@ -86,6 +85,10 @@
                 %a{:href => "http://www.flickr.com/photos/stevancw/"}> flickr
               %li
                 %a{:href => "http://zfer.us/kj8JX"}> Ruby on Rails Tutorial
+            %ul.nav
+              %li
+                %a.feed{:href => "/articles.xml"}>Subscribe (Atom)
+          .span4.pull-right#sidebar
       .row-fluid.span10.offset1
         %footer
           = haml :footer, :layout => true

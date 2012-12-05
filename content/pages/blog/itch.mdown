@@ -1,5 +1,8 @@
 Date: 9 June 2012
-Catagories: medicine
+Categories: medicine
+Flag: wow
+Template: page_comments
+
 
 #Causes of itch
 

@@ -27,9 +27,9 @@ module Nesta
         Nesta::Page.find_articles[0..count - 1]
       end
 
-      def last_four_articles(count = 4)
-        Nesta::Page.find_articles[0..count - 1]
-      end
+      # def my_pages
+      #   Nesta::Page.find_all.select { |p| p.flagged_as?('wow') }
+      # end
     end
 
     # Add new routes here.
