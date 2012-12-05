@@ -27,9 +27,19 @@ module Nesta
         Nesta::Page.find_articles[0..count - 1]
       end
 
-      # def my_pages
-      #   Nesta::Page.find_all.select { |p| p.flagged_as?('wow') }
+      
+    #Trying to list by metadata (delete if you figure it out)
+      # def my_category_pages
+      #   Page.find_all.select { |p| p.flagged_as?('shown-on-blog') }
       # end
+
+      # def my_pages
+      #   Page.find_all.select { |p| p.flagged_as?('wow') }
+      # end
+    #   def my_pages
+    #     Page.find_all.select do |page|
+    #       page.category
+    #   end
     end
 
     # Add new routes here.

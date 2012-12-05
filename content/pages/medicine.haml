@@ -1,7 +1,7 @@
 %h1 Medicine
 
 
-/ %section.articles= my_pages
+/%section.articles= my_pages
 
 /= Nesta::Page.find_all.select { |p| p.flagged_as?('wow') }
 
