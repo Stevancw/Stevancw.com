@@ -48,7 +48,7 @@
           .header
             %h1.title
               %a.title{ :href => '/' } Stevancw
-            %p.tagline A  blog by Stevan C Wing: beta 0.82
+            %p.tagline A  blog by Stevan C Wing: beta 0.85
             %hr
       .row-fluid
         .span12
@@ -59,11 +59,19 @@
               %li
                 %a{:href => "/about-stevan-wing"}> About
               %li
-                %a{:href => "/blog"}> Blog
+                %a{:href => "/stevancw-blog"}> Blog
               /%li
-              /  %a{:href => "/blog"}> Publications
-              /%li
-              /  %a{:href => "/speaking"}> Speaking
+              /  %a{:href => "/publications"}> Publications
+              %li
+                %a{:href => "/stevancw-speaking"}> Speaking
+              %li
+                %a{:href => "/doctors-learning-to-code"}> Coding
+              %li
+                %a{:href => "/stevan-wing-science"}> Science
+          .span3.pull-right#sidebar
+            %h3
+              Links
+            %ul.nav
               %li
                 %a{:href => "http://www.neuroscience.cam.ac.uk/directory/profile.php?Stevancw"}> Cambridge Neuroscience
               %li
@@ -71,9 +79,13 @@
               %li
                 %a{:href => "http://thedigitaldoc.co.uk"}> The Digital Doctor
               %li
-                %a{:href => "https://twitter.com/Stevancw"}> twitter
+                %a{:href => "https://twitter.com/Stevancw"}> Twitter
+              %li
+                %a{:href => "https://github.com/Stevancw"}> GitHub
               %li
                 %a{:href => "http://www.flickr.com/photos/stevancw/"}> flickr
+              %li
+                %a{:href => "http://zfer.us/kj8JX"}> Ruby on Rails Tutorial
       .row-fluid.span10.offset1
         %footer
           = haml :footer, :layout => true

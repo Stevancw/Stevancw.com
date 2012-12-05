@@ -1,0 +1,17 @@
+#Programming
+
+I have leared so much from [Michael Hartl](http://www.michaelhartl.com) of [Ruby on Rails Tutorial](http://zfer.us/kj8JX). The screencast format is great for me but there is also a book if that suits you better; both are brilliant and have global aclaim from the [RoR community](http://rubyonrails.org/community).
+
+I recommend at the very least that you check out the free online book and perhaps even follow the first few chapters. You'll be amazed what Michael gets you doing.
+
+The tutorial covers not just [Ruby on Rails](http://rubyonrails.org) but many of the thing needed for modern web development.
+
+- Version control (Git and GitHub)
+- Unix commands
+- Behaviour driven development
+
+If you're interested follow the below link to find out more:
+
+#####(Affiliate link)
+[Ruby on Rails Tutorial: Learn Web Development with Rails](http://zfer.us/kj8JX)
+
