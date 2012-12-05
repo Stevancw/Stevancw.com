@@ -2,6 +2,16 @@
   font-family: 'Droid Serif', Georgia, Serif
 }
 
+::-moz-selection {
+   background-color: #FFA07A;
+   color: #000;
+}
+
+::selection {
+    background-color: #FFA07A;
+    color: #000;
+}
+
 body {
   padding: 0 1.5em;
 }

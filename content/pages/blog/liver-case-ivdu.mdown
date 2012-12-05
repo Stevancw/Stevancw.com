@@ -1,4 +1,5 @@
 Date: 19 July 2012
+Catagories: medicine
 
 #What's your diagnosis?
 
