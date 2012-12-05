@@ -22,6 +22,14 @@ module Nesta
           'container'
         end
       end
+
+      def latest_articles(count = 8)
+        Nesta::Page.find_articles[0..count - 1]
+      end
+
+      def last_four_articles(count = 4)
+        Nesta::Page.find_articles[0..count - 1]
+      end
     end
 
     # Add new routes here.
