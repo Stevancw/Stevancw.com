@@ -1,7 +1,9 @@
 %h1 Medicine
 
 
-/%section.articles= my_pages
+%section.articles= pages
+
+%h3 This isn't working right now. I'll fix it soon (probably)...
 
 /= Nesta::Page.find_all.select { |p| p.flagged_as?('wow') }
 

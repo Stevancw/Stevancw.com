@@ -1,6 +1,7 @@
 Date: 9 June 2012
 Categories: medicine
 Template: page_comments
+Flags: medicine
 
 
 #Causes of itch
