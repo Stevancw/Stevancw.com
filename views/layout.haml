@@ -45,6 +45,7 @@
     .container-fluid
       .row-fluid
         .span12
+          / %img.pull-right{:alt => "brain", :height => "150em", :src => "/images/b.gif", :style => "float:right;opacity:0.8", :width => "132em"}/
           .header
             %h1.title
               %a.title{ :href => '/' } Stevancw
@@ -54,7 +55,7 @@
         .span12
           .span7.offset1
             = yield
-          .span4.pull-right#sidebar
+          .span3.pull-right#sidebar
             %ul.nav
               %li
                 %a{:href => "/about-stevan-wing"}> About
@@ -88,7 +89,6 @@
             %ul.nav
               %li
                 %a.feed{:href => "/articles.xml"}>Subscribe (Atom)
-          .span3.pull-right#sidebar
       .row-fluid.span10.offset1
         %footer
           = haml :footer, :layout => true
