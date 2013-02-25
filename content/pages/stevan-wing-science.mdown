@@ -1,8 +1,10 @@
 #Science
+### A little about my research at the [University of Cambridge](http://www.cam.ac.uk/ "Cambridge University Homepage")...     
+
 
 Modelling diseases in the laboratory has been invaluable to medical science and Parkinson’s disease has benefited from modelling like no other. However, sadly we can only treat the symptoms of the condition and new treatments are needed in order to slow its progression or reverse the damage done to the brain.
 
-In order to find new protective treatments we need new models of the disease that better relate to what we see in our patients. Current models use toxic chemicals to produce damage to the bran cells and unlike the real disease theses chemicals do their damage on the cells almost immediately. This makes it difficult to study the affect of a new drug or treatment that is designed to protect the brain over time.
+In order to find new protective treatments we need new models of the disease that better relate to what we see in our patients. Current models use toxic chemicals to produce damage to the brain cells and unlike the real disease theses chemicals do their damage on the cells almost immediately. This makes it difficult to study the affect of a new drug or treatment that is designed to protect the brain over time.
 
 It is becoming increasingly recognised that Parkinson’s disease is not just a process that affects the movement of those who are unfortunate to develop it. Indeed Parkinson’s disease affects a number of other areas of the body and brain causing a variety of non-motor symptoms and in some, devastatingly, the disease progresses to dementia.
 

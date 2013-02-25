@@ -1,6 +1,6 @@
 Date: 10 January 2013
 Description: Switching my text editor over to vim from TextMate and Sublime Text 2. 
-Categories: Programming
+Categories: programming
 Template: page_comments
 
 #Switching to vim
@@ -9,6 +9,8 @@ Over the weekend I have decided to make the switch to vim.
 I have been meaning to expore vim for a while but since a couple of friends (including [@podmedicsed](https://twitter.com/PodmedicsEd "Ed Wallitt on Twitter") have recently made the switch I thought I would give it a go.
 
 There are a reasons that I decided to make the switch:
+
+<!-- ~~fold~~ -->
 
 - I like procratination and customisation
 - Using the terminal is cool
@@ -20,5 +22,5 @@ There are a reasons that I decided to make the switch:
 From my experience this weekend I would recommend:
 
 1. following the vimtutor tutorial (just type vimtutor at the terminal)
-2. watching Derek Wyatt's vimeo tutorials (he's nuts but fun and his videos are a very good introduciton)
+2. watching [Derek Wyatt's vimeo tutorials](http://vimeo.com/user1690209/videos "Derek Wyatt on vimeo") (he's nuts but fun and his videos are a very good introduciton)
 3. get familiar with the documentation (type :help <function> to get help on a topic
