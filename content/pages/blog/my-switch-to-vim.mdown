@@ -23,4 +23,4 @@ From my experience this weekend I would recommend:
 
 1. following the vimtutor tutorial (just type vimtutor at the terminal)
 2. watching [Derek Wyatt's vimeo tutorials](http://vimeo.com/user1690209/videos "Derek Wyatt on vimeo") (he's nuts but fun and his videos are a very good introduciton)
-3. get familiar with the documentation (type :help <function> to get help on a topic
+3. get familiar with the documentation (type :help <function> to get help on a topic)
