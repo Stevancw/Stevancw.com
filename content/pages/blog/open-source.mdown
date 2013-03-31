@@ -1,18 +1,13 @@
 Date: 31 March 2013
-Description: Tim Rittman and I recently discussed open source software and research on the digital doctor podcast
+Categories: medicine 
 Template: page_comments
 
 # A guide to getting started with Open Source Research
 
-I really enjoyed talking with [Tim Rittman](https://twitter.com/timrittman "Tim Rittman on Twitter") the other day as part of our [Digital Doctor podcast episode](http://thedigitaldoc.co.uk/podcasts/9 "The Digital Doctor- Episode 9"). We spoke about research and the software we use to get the job done. Tim is working on network analysis and uses [functional MRI](http://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging "Wikipaedia fMRI page") scanning to watch differenet parts of the brain talk
+I really enjoyed talking with [Tim Rittman](https://twitter.com/timrittman "Tim Rittman on Twitter") the other day as part of our [Digital Doctor podcast episode](http://thedigitaldoc.co.uk/podcasts/9 "The Digital Doctor- Episode 9"). We spoke about research and the software we use to get the job done. Tim is working on network analysis and uses [functional MRI](http://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging "Wikipaedia fMRI page") scanning to watch different parts of the brain talk to each other (through some hefty mathematical processing). He's using this technique to pick apart the differences in the brains of those who have dementia and those who do not. Super cool!
 
-<!-- ~~fold~~ -->
+This sounds like it would be a really expensive endeavour. You see MRI scans are not cheap; to buy a suitable MRI scanner would cost several million pounds and each scan could set you back between £400 and £800! Tim is using the scans of around 80 people and without doing the arithmetic it clear that this is an expensive game! However if you're in the right place at the right time things are cheaper. [Addenbrooke's Hospital](http://www.cuh.org.uk/cms/addenbrookes-hospital "Addenbrooke's Hospital website") happen to have a scanner or two and a lot of these patients will have to have a MRI scan anyway; the 'functional' bit adds a short period on to the total length of the scan and the extra expense is also negligible. Once the images have been taken they can be used in several different studies over and over again.
 
-to each other (through some hefty mathematical processing). He's using this technique to pick apart the differences in the brains of those who have dementia and those who do not. Super cool!
+Given the cost of the scans you might imagine that the software used to analyse the results would be equally expensive. I bet that you'd be surprised to hear that the entire software stack Tim uses is **free**! That's right from the operating system that runs his computer through the software that he uses to analyse the scans and even the packages he uses to prepare the results for publication; all free.
 
-This sounds like it would be a really expensive endevour. You see MRI scans are not cheap; to buy a suitable MRI scanner would cost several million pounds and each scan could set you back betwen £400 and £800! Tim is using the scans of around 80 people and without doing the arithmetic it clear that this is an expensive game! However if you're in the right place at the right time things are cheaper. [Addenbrooke's Hospital](http://www.cuh.org.uk/cms/addenbrookes-hospital "Addenbrooke's Hospital website") happen to have a scanner or two and a lot of these patients will have to have a MRI scan anyway; the 'functional' bit adds a short period on to the total length of the scan and the extra expence is also negligible. Once the images have been taken they can be used in several different studies over and over again.
-
-Given the cost of the scans you might imagine that the software used to analyse the resuls would be equally expensive. I bet that you'd be suprised to hear that the entire software stack Tim uses is **free**! That's right from the operating system that runs his computer through the software that he uses to analyse the scans and even the packages he uses to prepare the results for publication- all free.
-
-How so? Well you see there are great swaths of people willing to devote their time and efforts to make something great for the world. Thank you open source community!
-
+How so? Well, you see there are great swaths of people willing to devote their time and efforts to make something great for the world. Thank you open source community!
