@@ -2,7 +2,7 @@ Date: 31 March 2013
 Categories: medicine 
 Template: page_comments
 
-# A guide to getting started with Open Source Research
+# Open Source Research
 
 I really enjoyed talking with [Tim Rittman](https://twitter.com/timrittman "Tim Rittman on Twitter") the other day as part of our [Digital Doctor podcast episode](http://thedigitaldoc.co.uk/podcasts/9 "The Digital Doctor- Episode 9"). We spoke about research and the software we use to get the job done. Tim is working on network analysis and uses [functional MRI](http://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging "Wikipaedia fMRI page") scanning to watch different parts of the brain talk to each other (through some hefty mathematical processing). He's using this technique to pick apart the differences in the brains of those who have dementia and those who do not. Super cool!
 
