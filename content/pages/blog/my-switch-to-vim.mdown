@@ -1,6 +1,6 @@
 Date: 10 January 2013
 Description: Switching my text editor over to vim from TextMate and Sublime Text 2. 
-Categories: programming
+Categories: doctors-learning-to-code,
 Template: page_comments
 
 #Switching to vim

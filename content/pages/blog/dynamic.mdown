@@ -1,5 +1,5 @@
 Date: 5 January 2012
-Categories: medicine, doctors-learning-to-code
+Categories: medicine, doctors-learning-to-code,
 Template: page_comments
 
 #How every doctor could contribute to the education of their successors
