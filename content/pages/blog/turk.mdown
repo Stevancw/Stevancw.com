@@ -1,0 +1,15 @@
+Date: 14 March 2014
+Description: Using Amazon Mechanical Turk in academia
+Categories: medicine, academia
+Template: page_comments
+Flags: draft
+
+# The Human Touch
+
+Recently I have been charged with a large writing project. I enjoy writing but there are those moments during the process where things really seem to slow down. To call it writers block is probabily a bit of an exaggeration but certainly things do not come so easily. One area that I particularly struggle with is proof reading. One can get too close, too attached to the work that spotting mistakes and better ways of phrasing things just eludes. That's where it can be really helpful to get a third party to look over and proof-read your work.
+
+For small peices of work it's largely unecessary but for something that is 20,000 words or more it really is a essential. However, if you try to find someone with the time, interest and will to read >100 pages of someone elses scientific musings you'll be hard pushed without coughing up some cash. A quick internet seach will point you to many companies built on the anxieties of desperate PhD and masters students eager for their work to be read and corrected. I have never used such a company but I am quite sure that their services are excellent. The probelm is that most charge quite a heafty fee and take some time to deliver the results to you.
+
+### Along Comes the Turk!
+
+
